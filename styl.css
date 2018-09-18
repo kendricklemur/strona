@@ -1,0 +1,20 @@
+h1 {
+	color: yellow;
+	font-family: calibri, arial;
+	background-color: hsl(5,60%,60%);
+	font-size:15px;
+}
+
+tr > td {
+	background-color: green;
+	font-family: calibri;
+	color: yellow;
+	font-size:15px;
+}
+
+/*p {
+	color: blue;
+	font-size:19px;
+	font-weight: bolder;
+	font-style: italic;
+}
